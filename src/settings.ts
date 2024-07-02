@@ -40,6 +40,7 @@ export const currencyCodesForDollarSign: {[key:string]: string} = {
     BBD: "Barbadian Dollar",
     BMD: "Bermudian Dollar",
     BND: "Brunei Dollar",
+	BRL: "Brazilian Real",
     BSD: "Bahamian Dollar",
 	BZD: "Belize Dollar",
     CAD: "Canadian Dollar",
